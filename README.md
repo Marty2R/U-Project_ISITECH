@@ -1,5 +1,5 @@
 # U-Project
 
-Ceci est un projet giga fun
-
-j'en refait un t'as capté
+## Infos
+- Délai : max 6 mois
+- Budget : 10000€ (+1000€ si besoin)
