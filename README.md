@@ -1,5 +1,10 @@
 # U-Project
 
+## Composition du groupe
+- Gaspar MUSITELLI
+- Temel DEMIRCIOGLU
+- Marty RABATEL
+
 ## Infos
 - Délai : max 6 mois
 - Budget : 
